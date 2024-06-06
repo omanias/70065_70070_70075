@@ -1,0 +1,12 @@
+{
+  "name": "principios_basicos_de_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
