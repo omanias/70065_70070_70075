@@ -1,0 +1,12 @@
+{
+  "name": "manejo_de_archivos_en_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
