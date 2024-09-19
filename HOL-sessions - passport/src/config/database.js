@@ -1,6 +1,6 @@
 import mongoose from 'mongoose';
 
-mongoose.connect('MONGO_URL');
+mongoose.connect('mongodb+srv://omarmanias:1234562024@cluster0.bxjfm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0');
 
 const db = mongoose.connection;
 

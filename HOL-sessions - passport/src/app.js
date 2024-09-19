@@ -27,7 +27,7 @@ app.use(session({
     secret: 'secretkey',
     resave: false,
     saveUninitialized: true,
-    store: MongoStore.create({ mongoUrl: 'MONGO_URL' })
+    store: MongoStore.create({ mongoUrl: 'mongodb+srv://omarmanias:1234562024@cluster0.bxjfm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0' })
 }));
 
 initializePassport()
